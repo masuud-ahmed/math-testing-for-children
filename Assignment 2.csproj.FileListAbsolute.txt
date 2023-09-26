@@ -1,0 +1,9 @@
+c:\users\hp\documents\visual studio 2015\Projects\Assignment 2\Assignment 2\bin\Debug\Assignment 2.exe.config
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Assignment 2\Assignment 2\bin\Debug\Assignment 2.exe
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Assignment 2\Assignment 2\bin\Debug\Assignment 2.pdb
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Assignment 2\Assignment 2\obj\Debug\Assignment 2.csprojResolveAssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Assignment 2\Assignment 2\obj\Debug\Assignment_2.Form1.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Assignment 2\Assignment 2\obj\Debug\Assignment_2.Properties.Resources.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Assignment 2\Assignment 2\obj\Debug\Assignment 2.csproj.GenerateResource.Cache
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Assignment 2\Assignment 2\obj\Debug\Assignment 2.exe
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Assignment 2\Assignment 2\obj\Debug\Assignment 2.pdb
